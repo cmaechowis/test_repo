@@ -1,0 +1,207 @@
+## [Template] Live App Smoke Test 2024.02.01 (Feb 01)
+
+- [ ] Dermobella Skin AOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+   
+- [ ] Dermobella Hair AOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+
+- [ ] Dermobella Skin IOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Share Web Result via QR code
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+- [ ] Dermobella Hair IOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Share Web Result via QR code
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+- [ ] KHeadspa Skin AOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+- [ ] KHeadspa Hair AOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+- [ ] Dior Skin Analyzer IOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Share Web Result via QR code
+    - [ ] Upload Data Sync
+   
+- [ ] Pierre Fabre IOS 
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+- [ ] Dermopico Skin AOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+- [ ] Dermopico Hair AOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+
+- [ ] Dermopico Skin IOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+
+- [ ] Dermopico Hair IOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+
+- [ ] Loreal IOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    
+- [ ] Loreal AOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+
+- [ ] Dermofain AOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+
+- [ ] Dermofain IOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+
+- [ ] Myskinfain AOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+
+- [ ] Myskinfain IOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+
+- [ ] MyHair Kiosk
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+
+- [ ] MySkin Kiosk
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+
+- [ ] Dbea IOS
+    - [ ] Login
+    - [ ] Forgot password
+    - [ ] Activate Device
+    - [ ] Online Analysis
+    - [ ] Offline Analysis
+    - [ ] Share Web Result via Email
+    - [ ] Upload Data Sync
+    - [ ] Download Data Sync
+- [ ] Chowis Portal
+- [ ] Servicehub
+- [ ] Datahub
+- [ ] Product Hub
